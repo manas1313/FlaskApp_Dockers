@@ -12,7 +12,7 @@ This is a sample application to reurn a json with below forrmat with /info endpo
 Application info:
 
 ## How To Setup
-1. Clone This Project `git clone https://github.com/sajib1066/CurrencyConverterApp.git`
+1. Clone This Project `https://github.com/manas1313/FlaskApp_Dockers.git`
 2. Create a Virtual Environment `virtualenv dockerenv`
 3. Activate Virtual Environment `source dockerenv/bin/activate`
    Come back to application directory `source`
